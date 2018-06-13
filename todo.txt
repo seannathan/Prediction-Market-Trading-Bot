@@ -1,0 +1,16 @@
+Todo:
+	1. Fix bug
+	2. Run 30 second simulations 100 times.
+	
+	
+315
+correct: 673
+
+-190
+correct: 216
+
+
+7.2
+2.1
+
+5.1
